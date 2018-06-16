@@ -2,5 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker único
 
-**Melquiades Vázquez**
+**Melquiades Vázquez**, git fan.
 
